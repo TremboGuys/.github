@@ -1,4 +1,3 @@
-# Projeto Integrador - Modelo
 # Eatly
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
@@ -6,11 +5,11 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 A Eatly busca expandir seus lucros intermediando vendas e entregas, além da hospedagem de restaurantes. O novo sistema permitirá pedidos online, rastreamento de entregas e avaliações. Restaurantes poderão gerenciar pedidos e cardápios, enquanto entregadores terão suporte via GPS. Administradores controlarão taxas, suporte e políticas da plataforma. A transparência será reforçada com relatórios detalhados para os restaurantes.
 
 Equipe:
-- [João](https://github.com/Joaovictor23t4)
-- [Lucas](https://github.com/dnzlucas)
-- [Luiz](https://github.com/LuizBlume)
-- [Luna](https://github.com/LunaBolsoni)
-- [Sara](https://github.com/SaraKozoski)
+- [João Victor Portela Rocha](https://github.com/Joaovictor23t4)
+- [Lucas Diniz dos Santos](https://github.com/dnzlucas)
+- [Luiz Fernando Blume Jacinto](https://github.com/LuizBlume)
+- [Luna Bolsoni Ramos da Silva](https://github.com/LunaBolsoni)
+- [Sara Kozoski](https://github.com/SaraKozoski)
 
 - [Documentação (esse documento)](https://github.com/TremboGuys/eatly_docs/blob/main/docs/README.md)
 - Backend: [Repositório](https://github.com/TremboGuys/eatly_backend) e [Publicação](https://eatly-backend-cbai.onrender.com/api/)
