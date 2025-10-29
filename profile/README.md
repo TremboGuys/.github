@@ -11,7 +11,7 @@ Equipe:
 - [Luna Bolsoni Ramos da Silva](https://github.com/LunaBolsoni)
 - [Sara Kozoski](https://github.com/SaraKozoski)
 
-- [Documentação (esse documento)](https://github.com/TremboGuys/eatly_docs/blob/main/docs/README.md)
+- Documentação: [Repositório](https://github.com/TremboGuys/eatly_docs)
 - Backend: [Repositório](https://github.com/TremboGuys/eatly_backend) e [Publicação](https://eatly-backend-cbai.onrender.com/api/)
 - Frontend: [Repositório](https://github.com/TremboGuys/eatly_frontend) e [Publicação](https://eatly-frontend-trza.onrender.com)
 
